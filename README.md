@@ -44,8 +44,6 @@ The objective was to identify revenue trends, customer satisfaction issues, and 
 - Top customers
 - Monthly sales trend
 
----
-
 ## Key Insights
 
 - Revenue declined across multiple quarters.
@@ -54,7 +52,3 @@ The objective was to identify revenue trends, customer satisfaction issues, and 
 - Identified top-performing regions and products.
 
 
-
-- SQL Queries
-- Project Report
-- Screenshots
