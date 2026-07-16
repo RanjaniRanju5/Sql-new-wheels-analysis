@@ -1,6 +1,6 @@
-# 🚗 New Wheels Business Analysis
+# New Wheels Business Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes the business performance of a used vehicle resale company using SQL.
 
@@ -8,14 +8,14 @@ The objective was to identify revenue trends, customer satisfaction issues, and 
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - MySQL
 - MySQL Workbench
 
 ---
 
-## 📚 SQL Concepts Used
+## SQL Concepts Used
 
 - SELECT
 - WHERE
@@ -33,7 +33,7 @@ The objective was to identify revenue trends, customer satisfaction issues, and 
 
 ---
 
-## 📊 Business Questions Solved
+## Business Questions Solved
 
 - Quarterly revenue analysis
 - Customer rating trends
@@ -46,7 +46,7 @@ The objective was to identify revenue trends, customer satisfaction issues, and 
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Revenue declined across multiple quarters.
 - Shipping delays significantly impacted customer ratings.
